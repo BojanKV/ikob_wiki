@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'http://git.ikob.org/bojankv/ikob_wiki',
+            'http://git.ikob.org/bojankv/ikob_wiki/src/branch/main',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'http://git.ikob.org/bojankv/ikob_wiki',
+            'http://git.ikob.org/bojankv/ikob_wiki/src/branch/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
